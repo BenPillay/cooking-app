@@ -5,7 +5,7 @@ const LoginNavbar = () => {
   const { details } = useContext(LoginContext);
   return (
     <div className="navbar">
-      <h1>Login</h1>
+      <h1>Welcome to the cooking app</h1>
     </div>
   );
 }
