@@ -11,7 +11,7 @@ const RecipeList = () => {
         })}
     </div>
   ) : (
-    <div className="empty">No books to read. Hello free time :).</div>
+    <div className="empty">No recipes</div>
   );
 }
 
